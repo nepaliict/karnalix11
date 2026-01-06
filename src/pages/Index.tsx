@@ -237,7 +237,7 @@ const Index = () => {
               What Our Players Say
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              Join thousands of satisfied players who trust GoldenBet
+              Join thousands of satisfied players who trust KarnaliX
             </p>
           </div>
 
@@ -276,7 +276,7 @@ const Index = () => {
             Ready to Start Winning?
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto mb-8">
-            Join GoldenBet today and get your welcome bonus. Play responsibly and enjoy the thrill!
+            Join KarnaliX today and get your welcome bonus. Play responsibly and enjoy the thrill!
           </p>
           <Link to="/auth?mode=signup">
             <Button variant="gold" size="xl">
