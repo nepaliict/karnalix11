@@ -22,10 +22,10 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-gold to-gold-dark flex items-center justify-center">
-              <span className="text-primary-foreground font-heading font-bold text-xl">G</span>
+              <span className="text-primary-foreground font-heading font-bold text-xl">K</span>
             </div>
             <span className="font-heading font-bold text-xl text-foreground hidden sm:block">
-              Golden<span className="text-primary">Bet</span>
+              Karnali<span className="text-primary">X</span>
             </span>
           </Link>
 
